@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itachi2003
+- 👋 Hi, I’m @Lazare Lomsadze
 - 👀 I’m interested in programming language, business and science.
 - 🌱 I’m currently learning front-end development.
 - 💞️ I’m looking to collaborate on front-end development
