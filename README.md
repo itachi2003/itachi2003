@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lazare Lomsadze
-- 👀 I’m interested in programming language, business and science.
-- 🌱 I’m currently learning front-end development.
-- 💞️ I’m looking to collaborate on front-end development
+- 👀 I’m interested in programming language, Blockchain world and science.
+- 🌱 I am an experienced developer, focused on Frontend development and Blockchain development .
+- 💞️ I’m looking to collaborate on Blockchain development
 - 📫 How to reach me lomsadze.lazare2003@gmail.com
 
 <!---
