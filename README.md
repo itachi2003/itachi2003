@@ -1,21 +1,9 @@
-### Hi there 👋
+👋 Hi, I’m @Lazare Lomsadze
+👀 I’m interested in Blockchain world
+🌱 I am an experienced developer, focused on Blockchain development .
+💞️ I’m looking to collaborate on Blockchain development
+📫 How to reach me lomsadze.lazare2003@gmail.com
 
-<!--
-**itachi2003/itachi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Stats
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=itachi2003&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=itachi2003&theme=default" />
-</picture>
+Body of an athlete
+Mind of a stoic
+Spirit of a warrior
