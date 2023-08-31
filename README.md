@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Stats
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=David-Koshkadze&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=David-Koshkadze&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=itachi2003&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=itachi2003&theme=default" />
 </picture>
