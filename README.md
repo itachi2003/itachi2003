@@ -7,3 +7,6 @@
 🔯Body of an athlete                                                                                                             
  ☯Mind of a stoic                                                                                                                                                                                         
 🦉Spirit of a warrior                                                                                          
+
+International Certificate of blockchain development - 
+![BTA](https://github.com/itachi2003/itachi2003/assets/70573427/aec63a18-f323-47b8-ac8a-c4e0356e7d31)
