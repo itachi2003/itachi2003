@@ -10,3 +10,9 @@
 
 International Certificate of blockchain development - 
 ![BTA](https://github.com/itachi2003/itachi2003/assets/70573427/aec63a18-f323-47b8-ac8a-c4e0356e7d31)
+
+## Stats
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=itachi2003&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=itachi2003&theme=default" />
+</picture>
